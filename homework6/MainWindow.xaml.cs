@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace redidHW
+namespace homework6
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

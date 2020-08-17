@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace redidHW
+namespace homework6
 {
     class Employee : INotifyPropertyChanged
     {
